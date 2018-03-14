@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "NutieNetworks DarkRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -52,9 +52,9 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/4000_screenshots_2015-05-31_0000.jpg",
 	"backgrounds/images/588706804_preview_fullscreen-bg.jpg",
-	"backgrounds/images/maxresdefault.jpg"
+	"backgrounds/images/maxresdefault.jpg",
 	"backgrounds/images/steamworkshop_webupload_previewfile_409071449_preview.jpg"
-	
+
 ];
 
 /*Random background images order?*/
