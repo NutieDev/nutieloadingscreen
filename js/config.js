@@ -50,10 +50,10 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/4000_screenshots_2015-05-31_0000.jpg",
-	"backgrounds/images/588706804_preview_fullscreen-bg.jpg",
-	"backgrounds/images/maxresdefault.jpg",
-	"backgrounds/images/steamworkshop_webupload_previewfile_409071449_preview.jpg"
+"backgrounds\images\4000_screenshots_2015-05-31_0000.jpg",
+	"backgrounds\images\588706804_preview_fullscreen-bg.jpg",
+"backgrounds\images\maxresdefault.jpg",
+"backgrounds\images\steamworkshop_webupload_previewfile_409071449_preview.jpg"
 
 ];
 
